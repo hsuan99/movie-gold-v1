@@ -19,6 +19,7 @@ const Hero = ({movies}) => {
                                     <div className='movie-title'>
                                         <h4>{movie.title}</h4>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </Paper>
